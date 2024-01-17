@@ -1,0 +1,12 @@
+button{
+    padding: 13px 13px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+input{
+    width: 20%;
+    padding: 12px 12px;
+    font-size: medium;
+    border-radius: 10px;
+}
